@@ -1,3 +1,6 @@
+### 书籍《深度学习：数学基础、算法模型与实战》配套代码 
+[京东链接](https://item.jd.com/10072294405560.html)
+![封面](img/cover.png)
 ### 代码运行
 
 1. 代码请到相应章节文件夹中运行
@@ -32,6 +35,7 @@
 视频合集地址：https://www.bilibili.com/video/BV1uK41127ru/
 
 或访问空间：https://space.bilibili.com/8965791
+
 
 ### 开源许可
 
